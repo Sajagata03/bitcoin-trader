@@ -1,1 +1,7 @@
-
+# LIBRARIES USED IN THIS ASSIGNMENT ARE
+- Pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- datetime
+- sklearn
